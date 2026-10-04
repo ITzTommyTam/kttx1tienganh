@@ -1,0 +1,6 @@
+{
+  "name": "english-quiz-life-story-we-admire",
+  "description": "Ứng dụng trắc nghiệm và ôn luyện từ vựng Tiếng Anh Unit 1: Life Story We Admire với các chế độ kiểm tra, flashcard, phát âm và bảng từ vựng hoàn chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
